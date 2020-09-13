@@ -1,0 +1,13 @@
+C:\Users\Francis\Documents\Coding\Coding Interview\First Recurring Character\First Recurring Character\obj\Debug\netcoreapp3.1\First Recurring Character.csprojAssemblyReference.cache
+C:\Users\Francis\Documents\Coding\Coding Interview\First Recurring Character\First Recurring Character\obj\Debug\netcoreapp3.1\First Recurring Character.csproj.CoreCompileInputs.cache
+C:\Users\Francis\Documents\Coding\Coding Interview\First Recurring Character\First Recurring Character\obj\Debug\netcoreapp3.1\First Recurring Character.AssemblyInfoInputs.cache
+C:\Users\Francis\Documents\Coding\Coding Interview\First Recurring Character\First Recurring Character\obj\Debug\netcoreapp3.1\First Recurring Character.AssemblyInfo.cs
+C:\Users\Francis\Documents\Coding\Coding Interview\First Recurring Character\First Recurring Character\bin\Debug\netcoreapp3.1\First Recurring Character.exe
+C:\Users\Francis\Documents\Coding\Coding Interview\First Recurring Character\First Recurring Character\bin\Debug\netcoreapp3.1\First Recurring Character.deps.json
+C:\Users\Francis\Documents\Coding\Coding Interview\First Recurring Character\First Recurring Character\bin\Debug\netcoreapp3.1\First Recurring Character.runtimeconfig.json
+C:\Users\Francis\Documents\Coding\Coding Interview\First Recurring Character\First Recurring Character\bin\Debug\netcoreapp3.1\First Recurring Character.runtimeconfig.dev.json
+C:\Users\Francis\Documents\Coding\Coding Interview\First Recurring Character\First Recurring Character\bin\Debug\netcoreapp3.1\First Recurring Character.dll
+C:\Users\Francis\Documents\Coding\Coding Interview\First Recurring Character\First Recurring Character\bin\Debug\netcoreapp3.1\First Recurring Character.pdb
+C:\Users\Francis\Documents\Coding\Coding Interview\First Recurring Character\First Recurring Character\obj\Debug\netcoreapp3.1\First Recurring Character.dll
+C:\Users\Francis\Documents\Coding\Coding Interview\First Recurring Character\First Recurring Character\obj\Debug\netcoreapp3.1\First Recurring Character.pdb
+C:\Users\Francis\Documents\Coding\Coding Interview\First Recurring Character\First Recurring Character\obj\Debug\netcoreapp3.1\First Recurring Character.genruntimeconfig.cache

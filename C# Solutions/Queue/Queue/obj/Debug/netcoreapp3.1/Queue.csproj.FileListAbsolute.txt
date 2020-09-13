@@ -1,0 +1,13 @@
+C:\Users\Francis\Documents\Coding\Coding Interview\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.csprojAssemblyReference.cache
+C:\Users\Francis\Documents\Coding\Coding Interview\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+C:\Users\Francis\Documents\Coding\Coding Interview\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+C:\Users\Francis\Documents\Coding\Coding Interview\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+C:\Users\Francis\Documents\Coding\Coding Interview\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+C:\Users\Francis\Documents\Coding\Coding Interview\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+C:\Users\Francis\Documents\Coding\Coding Interview\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+C:\Users\Francis\Documents\Coding\Coding Interview\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+C:\Users\Francis\Documents\Coding\Coding Interview\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+C:\Users\Francis\Documents\Coding\Coding Interview\Queue\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+C:\Users\Francis\Documents\Coding\Coding Interview\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+C:\Users\Francis\Documents\Coding\Coding Interview\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
+C:\Users\Francis\Documents\Coding\Coding Interview\Queue\Queue\obj\Debug\netcoreapp3.1\Queue.genruntimeconfig.cache

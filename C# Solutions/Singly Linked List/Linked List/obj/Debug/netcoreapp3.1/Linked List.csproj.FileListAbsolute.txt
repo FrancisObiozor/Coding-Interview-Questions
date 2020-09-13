@@ -1,0 +1,26 @@
+C:\Users\Francis\source\repos\Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.exe
+C:\Users\Francis\source\repos\Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.deps.json
+C:\Users\Francis\source\repos\Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.runtimeconfig.json
+C:\Users\Francis\source\repos\Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.runtimeconfig.dev.json
+C:\Users\Francis\source\repos\Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.dll
+C:\Users\Francis\source\repos\Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.pdb
+C:\Users\Francis\source\repos\Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.csprojAssemblyReference.cache
+C:\Users\Francis\source\repos\Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.csproj.CoreCompileInputs.cache
+C:\Users\Francis\source\repos\Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.AssemblyInfoInputs.cache
+C:\Users\Francis\source\repos\Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.AssemblyInfo.cs
+C:\Users\Francis\source\repos\Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.dll
+C:\Users\Francis\source\repos\Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.pdb
+C:\Users\Francis\source\repos\Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.genruntimeconfig.cache
+C:\Users\Francis\Documents\Coding\Coding Interview\Singly Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.exe
+C:\Users\Francis\Documents\Coding\Coding Interview\Singly Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.deps.json
+C:\Users\Francis\Documents\Coding\Coding Interview\Singly Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.runtimeconfig.json
+C:\Users\Francis\Documents\Coding\Coding Interview\Singly Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.runtimeconfig.dev.json
+C:\Users\Francis\Documents\Coding\Coding Interview\Singly Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.dll
+C:\Users\Francis\Documents\Coding\Coding Interview\Singly Linked List\Linked List\bin\Debug\netcoreapp3.1\Linked List.pdb
+C:\Users\Francis\Documents\Coding\Coding Interview\Singly Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.csprojAssemblyReference.cache
+C:\Users\Francis\Documents\Coding\Coding Interview\Singly Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.csproj.CoreCompileInputs.cache
+C:\Users\Francis\Documents\Coding\Coding Interview\Singly Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.AssemblyInfoInputs.cache
+C:\Users\Francis\Documents\Coding\Coding Interview\Singly Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.AssemblyInfo.cs
+C:\Users\Francis\Documents\Coding\Coding Interview\Singly Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.dll
+C:\Users\Francis\Documents\Coding\Coding Interview\Singly Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.pdb
+C:\Users\Francis\Documents\Coding\Coding Interview\Singly Linked List\Linked List\obj\Debug\netcoreapp3.1\Linked List.genruntimeconfig.cache

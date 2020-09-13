@@ -1,0 +1,13 @@
+C:\Users\Francis\Documents\Coding\Coding Interview\Reverse String\Reverse String\obj\Debug\netcoreapp3.1\Reverse String.csprojAssemblyReference.cache
+C:\Users\Francis\Documents\Coding\Coding Interview\Reverse String\Reverse String\obj\Debug\netcoreapp3.1\Reverse String.csproj.CoreCompileInputs.cache
+C:\Users\Francis\Documents\Coding\Coding Interview\Reverse String\Reverse String\obj\Debug\netcoreapp3.1\Reverse String.AssemblyInfoInputs.cache
+C:\Users\Francis\Documents\Coding\Coding Interview\Reverse String\Reverse String\obj\Debug\netcoreapp3.1\Reverse String.AssemblyInfo.cs
+C:\Users\Francis\Documents\Coding\Coding Interview\Reverse String\Reverse String\bin\Debug\netcoreapp3.1\Reverse String.exe
+C:\Users\Francis\Documents\Coding\Coding Interview\Reverse String\Reverse String\bin\Debug\netcoreapp3.1\Reverse String.deps.json
+C:\Users\Francis\Documents\Coding\Coding Interview\Reverse String\Reverse String\bin\Debug\netcoreapp3.1\Reverse String.runtimeconfig.json
+C:\Users\Francis\Documents\Coding\Coding Interview\Reverse String\Reverse String\bin\Debug\netcoreapp3.1\Reverse String.runtimeconfig.dev.json
+C:\Users\Francis\Documents\Coding\Coding Interview\Reverse String\Reverse String\bin\Debug\netcoreapp3.1\Reverse String.dll
+C:\Users\Francis\Documents\Coding\Coding Interview\Reverse String\Reverse String\bin\Debug\netcoreapp3.1\Reverse String.pdb
+C:\Users\Francis\Documents\Coding\Coding Interview\Reverse String\Reverse String\obj\Debug\netcoreapp3.1\Reverse String.dll
+C:\Users\Francis\Documents\Coding\Coding Interview\Reverse String\Reverse String\obj\Debug\netcoreapp3.1\Reverse String.pdb
+C:\Users\Francis\Documents\Coding\Coding Interview\Reverse String\Reverse String\obj\Debug\netcoreapp3.1\Reverse String.genruntimeconfig.cache

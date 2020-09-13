@@ -1,0 +1,13 @@
+C:\Users\Francis\Documents\Coding\Coding Interview\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.csprojAssemblyReference.cache
+C:\Users\Francis\Documents\Coding\Coding Interview\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.csproj.CoreCompileInputs.cache
+C:\Users\Francis\Documents\Coding\Coding Interview\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfoInputs.cache
+C:\Users\Francis\Documents\Coding\Coding Interview\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfo.cs
+C:\Users\Francis\Documents\Coding\Coding Interview\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.exe
+C:\Users\Francis\Documents\Coding\Coding Interview\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.deps.json
+C:\Users\Francis\Documents\Coding\Coding Interview\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.json
+C:\Users\Francis\Documents\Coding\Coding Interview\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.dev.json
+C:\Users\Francis\Documents\Coding\Coding Interview\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.dll
+C:\Users\Francis\Documents\Coding\Coding Interview\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.pdb
+C:\Users\Francis\Documents\Coding\Coding Interview\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.dll
+C:\Users\Francis\Documents\Coding\Coding Interview\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.pdb
+C:\Users\Francis\Documents\Coding\Coding Interview\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.genruntimeconfig.cache
